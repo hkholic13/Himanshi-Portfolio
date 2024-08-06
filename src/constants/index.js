@@ -33,7 +33,7 @@ export const EXPERIENCES = [
     technologies: ["React.js", "MySQL", "Rails", "Jenkins", "Postman", "GitHub"],
   },
   {
-    year: "Feb 2020 - Jan 2021",
+    year: "Dec 2019 - Jan 2021",
     role: "Student Intern",
     company: "Acceleron Labs",
     description: `Spearheaded a web scraping project using Python and Selenium to monitor product prices on Amazon, resulting in a 15% increase in timely notifications to customers when target product prices fell, leading to a 25% increase in customer satisfaction and repeat purchases.Implemented a stock scraper tool leveraging Python and Beautiful Soup, identifying target stocks with decreased value and providing timely alerts to customers, resulting in a 20% increase in customer engagement and investment opportunities.Facilitated Python and NLP tutorials for team members through regular knowledge-sharing sessions over scrum calls, resulting in a 40% improvement in team members' proficiency and application of these technologies, leading to enhanced productivity and project outcomes.
